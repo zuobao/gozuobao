@@ -6,7 +6,7 @@ import (
 	"bytes"
 
 	"fmt"
-	"git.oschina.net/zuobao/gozuobao/logger"
+	"github.com/zuobao/gozuobao/logger"
 )
 
 

@@ -2,7 +2,7 @@ package push
 
 import (
 	"encoding/json"
-	"git.oschina.net/zuobao/gozuobao/logger"
+	"github.com/zuobao/gozuobao/logger"
 	"github.com/wuyongzhi/jpushv3"
 )
 

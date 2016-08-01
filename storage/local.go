@@ -8,8 +8,8 @@ import (
 	"path/filepath"
 	"strconv"
 
-	"git.oschina.net/zuobao/gozuobao/logger"
-	"git.oschina.net/zuobao/gozuobao/util"
+	"github.com/zuobao/gozuobao/logger"
+	"github.com/zuobao/gozuobao/util"
 )
 
 type LocalStorage struct {

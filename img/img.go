@@ -11,7 +11,7 @@ import (
 	"image/png"
 	"io"
 	"os"
-	"git.oschina.net/zuobao/gozuobao/logger"
+	"github.com/zuobao/gozuobao/logger"
 )
 
 type Image struct {
@@ -254,4 +254,3 @@ func ReduceSize(fullpath string, size int64, width, height uint ) error {
 
 	return err
 }
-

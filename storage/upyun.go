@@ -6,8 +6,8 @@ import (
 
 	"strconv"
 
-	"git.oschina.net/zuobao/gozuobao/logger"
-	"git.oschina.net/zuobao/gozuobao/upyun"
+	"github.com/zuobao/gozuobao/logger"
+	"github.com/zuobao/gozuobao/upyun"
 )
 
 type UpYunStorage struct {
